@@ -1,0 +1,272 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Welshman's praise of Wales: or, Shon ap Morgan's falling in love with an English lady in his journey to London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10279</idno>
+            <idno type="OCLC"> 80925434</idno>
+            <idno type="STC">Wing W1333</idno>
+            <idno type="STC">ESTC R224697</idno>
+            <idno type="EEBO-CITATION">80925434</idno>
+            <idno type="OCLC">ocm 80925434</idno>
+            <idno type="VID">192179</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B10279)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192179)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2901:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Welshman's praise of Wales: or, Shon ap Morgan's falling in love with an English lady in his journey to London.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by J. Raven in Searle's-Square, Lincoln's-Inn.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>MDCC. [1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Within decorative border.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English poetry --  17th century.</term>
+               <term>Wales --  Poetry --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:192179:1" rendition="simple:additions"/>
+            <head>The Welſhman's Praiſe of Wales: OR, Shon ap Morgan's falling in Love with an English Lady in his Journey to London.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>I'S not come here to tauke of <hi>Prute,</hi>
+               </l>
+               <l>From whence the <hi>Welſe</hi> does take hur Root;</l>
+               <l>Nor tell long Pedigree of Prince <hi>Camber,</hi>
+               </l>
+               <l>Whoſe Linage would fill full a Shamber;</l>
+               <l>Nor ſing the Deeds of old Saint <hi>Davy,</hi>
+               </l>
+               <l>The Urſip of which would fill a Navy.</l>
+               <l>But hark ye me now, for a liddel Tales</l>
+               <l>Sall make great deal to the Credit of <hi>Wales:</hi>
+               </l>
+               <l>For hur will tudge your Ears,</l>
+               <l>With the Praiſe of hur Thirteen Seeres.</l>
+               <l>And make you as Clad and Merry,</l>
+               <l>As Fourteen Pot of Perry.</l>
+            </lg>
+            <lg>
+               <l>'Tis true was wear him <hi>Shirkin-Frieze,</hi>
+               </l>
+               <l>But what is that<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> we have ſtore of Sheize;</l>
+               <l>And Got is plenty of Coates-Milk,</l>
+               <l>That ſell him well will buy him Silk</l>
+               <l>Enough, to make him fine to Quarrel,</l>
+               <l>At <hi>Hereford Sizes</hi> in new <hi>Apparel,</hi>
+               </l>
+               <l>And get him as much green Melmet perhap,</l>
+               <l>Sall give it a Face to his <hi>Monmouth-Cap,</hi>
+               </l>
+               <l>But then the Ore of <hi>Lemſter,</hi>
+               </l>
+               <l>By Cot is Uver a Sempſter;</l>
+               <l>That when he is Spun or Did,</l>
+               <l>Yet match him with her Thrid.</l>
+            </lg>
+            <lg>
+               <l>Aull this the Backs now, let us tell ye</l>
+               <l>Of ſome Proviſions for the Belly;</l>
+               <l>As <hi>Cid</hi> and <hi>Gote,</hi> and great <hi>Gote's Mother,</hi>
+               </l>
+               <l>And <hi>Runt</hi> and <hi>Cow</hi> and great <hi>Cows Vther:</hi>
+               </l>
+               <l>And once but taſte on the <hi>Welſe Mutton,</hi>
+               </l>
+               <l>Your <hi>Engliſs Seeps</hi> not worth a Button.</l>
+               <l>And then for your <hi>Fiſſe,</hi> ſhall ſhooſe it your Diſh,</l>
+               <l>Look but about and there's a <hi>Trout,</hi>
+               </l>
+               <l>A <hi>Salmon, Cor,</hi> or <hi>Chevin,</hi>
+               </l>
+               <l>Will feed you Six or Seven,</l>
+               <l>As Taull Men as ea'er Swagger.</l>
+               <l>With <hi>Welſe Club</hi> and long <hi>Dagger.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But all this while was never think</l>
+               <l>A word in praiſe of our <hi>Welſe</hi> Drink:</l>
+               <l>Yet for aull that, is a Cup of <hi>Bragat,</hi>
+               </l>
+               <l>Aull <hi>England</hi> Seer may caſt his Cap at.</l>
+               <l>And what you ſay to <hi>Ale</hi> of <hi>Webley,</hi>
+               </l>
+               <l>Toudge him as well, you'll praiſe him Trebley;</l>
+               <l>As well as <hi>Metheglin,</hi> or <hi>Syder,</hi> or <hi>Meath,</hi>
+               </l>
+               <l>Sall ſake it your Dagger quite out o'the Seath.</l>
+               <l>And <hi>Oate Cake</hi> of <hi>Guarthenion,</hi>
+               </l>
+               <l>With a goodly <hi>Leek</hi> or <hi>Onion,</hi>
+               </l>
+               <l>To give as ſweet a rellis,</l>
+               <l>As e'er did Harper <hi>Ellis.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And yet is nothing now all this,</l>
+               <l>If of our Muſicks we do miſs;</l>
+               <l>With <hi>Harp</hi> and <hi>Pipes</hi> too, and the <hi>Croud,</hi>
+               </l>
+               <l>Muſt aull come in and tauke aloud,</l>
+               <l>As loud as <hi>Bangu, Davy</hi>'s Bell,</l>
+               <l>Of which is no doubt you have hear tell,</l>
+               <l>As well as our louder <hi>Wrexam</hi> Organ,</l>
+               <l>Or rumbling Rocks in the Seer of <hi>Glamorgan,</hi>
+               </l>
+               <l>Where look but in the Ground here,</l>
+               <l>And you ſall ſee a Sound there,</l>
+               <l>That put her all togedder,</l>
+               <l>Is ſweet as Meaſure Pedder.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>Of Hur being in Love.</head>
+            <l>A Modeſt Shentle when hur ſee,</l>
+            <l>The great Laugh hur made on me,</l>
+            <l>And fine Wink that hur ſend</l>
+            <l>To hur, come to ſee hur Friend;</l>
+            <l>Hur could not ſhooſe, by Got apove,</l>
+            <l>But was entangle in hur Love.</l>
+            <l>A hundred a time hur was about</l>
+            <l>To ſpeak to hur, and leave hur out,</l>
+            <l>But hur peing a <hi>Welſman</hi> porn,</l>
+            <l>And therefore was think hur would hur ſcorn</l>
+            <l>Was fear, hur think nothing petter,</l>
+            <l>Than cram hur Love into a Letter,</l>
+            <l>Hoping hur will no Ceptions take</l>
+            <l>Unto hur Love for Country ſake;</l>
+            <l>For ſay hur be <hi>Welſman,</hi> what ten?</l>
+            <l>Py Got, they all be Shentlemen,</l>
+            <l>Was deſcend from <hi>Shoves</hi> nown Line,</l>
+            <l>Par Humane, and par Divine,</l>
+            <l>And from <hi>Venus</hi> that fair Goddeſs,</l>
+            <l>And Twenty other Shentlepoddies:</l>
+            <l>
+               <hi>Hector</hi> Stout, and comely <hi>Paris,</hi>
+            </l>
+            <l>
+               <hi>Arthur Prute,</hi> and King of <hi>Fayris,</hi>
+            </l>
+            <l>Was hur nown Couſins, all a Kin,</l>
+            <l>We have the <hi>Powel</hi>'s Iſſue in;</l>
+            <l>And for ought that hur can ſee,</l>
+            <l>As goot Men as other Men pee.</l>
+            <l>But what of that? Love is a Knave,</l>
+            <l>Was make hur do what he would have;</l>
+            <l>Was compel hur write the Rime,</l>
+            <l>That ne'er was Writ before the time;</l>
+            <l>And if he will not pity hur Pain,</l>
+            <l>As Got ſhudge hur Soul ſall ne'er Write again;</l>
+            <l>For Love is like an Ague Fit,</l>
+            <l>Was brin poor <hi>Welſman</hi> out of hur Wit,</l>
+            <l>Till by hur Anſwer hur do know,</l>
+            <l>Whether hur do Love her, ay or no.</l>
+            <l>Hur has not been in <hi>England</hi> long,</l>
+            <l>And canno ſpeak the <hi>Englis</hi> Tongue;</l>
+            <l>Put hur is hur Friend, and ſo hur will prove,</l>
+            <l>Pray a ſend hur word, if hur can Love.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be Sold by <hi>J. Raven</hi> in <hi>Searle</hi>'s-Square, <hi>Lincoln</hi>'s-Inn. MDCC. Price 2 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
